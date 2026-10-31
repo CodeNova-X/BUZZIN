@@ -12,12 +12,16 @@
 
   I do not have any code ready for it however I do know it should be able to work. If I can get it funded by Fabricate, then I would spend more time on it once I have everything to code and do the finishing touches and fixing different errors in the CAD design.
 
-# Schematic and PCB
-<img width="459" height="371" alt="3" src="https://github.com/user-attachments/assets/679a8c8b-6777-4ef7-bd75-52f758a8fd5a" />
-  <img width="129" height="393" alt="4" src="https://github.com/user-attachments/assets/b4009225-2fb7-4c6a-a412-1efab0a25d2e" />
-  <img width="118" height="385" alt="5" src="https://github.com/user-attachments/assets/de629f28-2326-41ba-aa5f-2bd70c85b978" />
+> # Schematic and PCB V1
+> <img width="459" height="371" alt="3" src="https://github.com/user-attachments/assets/679a8c8b-6777-4ef7-bd75-52f758a8fd5a" />
+>  <img width="129" height="393" alt="4" src="https://github.com/user-attachments/assets/b4009225-2fb7-4c6a-a412-1efab0a25d2e" />
+>  <img width="118" height="385" alt="5" src="https://github.com/user-attachments/assets/de629f28-2326-41ba-aa5f-2bd70c85b978" />
 
-# PCB model render
-<img width="986" height="607" alt="2" src="https://github.com/user-attachments/assets/1e4aa76b-f9d8-4617-9426-c0f1ae0f21df" />
+> # PCB model render V1
+> <img width="493" height="303" alt="2" src="https://github.com/user-attachments/assets/45da131b-922f-4a72-9127-7a3fc9a0df43" />
+
+
+
+
 
 
