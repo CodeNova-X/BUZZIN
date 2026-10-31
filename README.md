@@ -1,7 +1,4 @@
-
-<img width="2048" height="768" alt="Vintage BUZZIN Wireless Buzzer Poster" src="https://github.com/user-attachments/assets/de897d2d-c5ad-46ce-bbc9-a4c09bc60819" />
-
-
+<img width="2752" height="1536" alt="Recreate_banner_with_new_logo_64f638e6_2K" src="https://github.com/user-attachments/assets/046e7147-91f6-48a2-b68c-fbe7eb6379ba" />
 
 # BUZZIN
 #### A Wireless Game Buzzer
@@ -13,17 +10,22 @@
   I do not have any code ready for it however I do know it should be able to work. If I can get it funded by Fabricate, then I would spend more time on it once I have everything to code and do the finishing touches and fixing different errors in the CAD design.
 
 > # Schematic and PCB V1
-> <img width="459" height="371" alt="3" src="https://github.com/user-attachments/assets/679a8c8b-6777-4ef7-bd75-52f758a8fd5a" />
->  <img width="129" height="393" alt="4" src="https://github.com/user-attachments/assets/b4009225-2fb7-4c6a-a412-1efab0a25d2e" />
->  <img width="118" height="385" alt="5" src="https://github.com/user-attachments/assets/de629f28-2326-41ba-aa5f-2bd70c85b978" />
-
-> # PCB model render V1
-> <img width="493" height="303" alt="2" src="https://github.com/user-attachments/assets/45da131b-922f-4a72-9127-7a3fc9a0df43" />
+> V1. Incorporates a led and vibration motor for feedback you can feel. [Old version]
+> <img height="428" alt="3" src="https://github.com/user-attachments/assets/679a8c8b-6777-4ef7-bd75-52f758a8fd5a" />
+>  <img height="428" alt="4" src="https://github.com/user-attachments/assets/b4009225-2fb7-4c6a-a412-1efab0a25d2e" />
+>  <img height="428" alt="5" src="https://github.com/user-attachments/assets/de629f28-2326-41ba-aa5f-2bd70c85b978" />
+> <img height="428" alt="2" src="https://github.com/user-attachments/assets/45da131b-922f-4a72-9127-7a3fc9a0df43" />
 
 
 
 # Schematic and PCB V1.5
+V1.5 Smaller and more compact. Instead of vibrating, it is just a small buzzer to cut the cost and space a bit. It includes extra pins if you would like to expand the design further without having to redesign the pcb. With these extra pins, you can expand this system up to 5 buttons and can attach an LED strip or equivalent instead of a single led. With this expansion, I thought it necessary to add screw holes if needed for other designs, you can use 2 M3 screws to attach the PCB to other things.
+
 <img width="196" height="428" alt="Screenshot 2026-10-31 at 6 18 48 PM" src="https://github.com/user-attachments/assets/ba210c77-9848-44fc-b648-83786e7e01a8" />
+<img height="428" alt="Screenshot 2026-10-31 at 7 01 55 PM" src="https://github.com/user-attachments/assets/dd732265-1f99-4aab-a11b-a98ee8c15ec2" />
+<img height="428" alt="Screenshot 2026-10-31 at 7 02 07 PM" src="https://github.com/user-attachments/assets/8fa64ce2-1424-4429-852e-a02517fe0b4d" />
+<img height="428" alt="Screenshot 2026-10-31 at 2 19 21 PM" src="https://github.com/user-attachments/assets/23876aa4-ed12-4056-a85e-a850c0de1fdf" />
+
 
 
 
