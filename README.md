@@ -8,3 +8,5 @@
   BUZZIN is a custom-built wireless game buzzer designed to bring the excitement of classic game shows to life! Inspired by Jeopardy-style competitions, BUZZIN combines a sleek handheld design with custom electronics, wireless connectivity, and colorful LED indicators that identify each player's team. Powered by an ESP32 and built around a custom PCB, BUZZIN is designed to make trivia nights, classroom competitions, and friendly challenges more interactive, competitive, and fun.
 
   I designed this after wanting to make my own game system but this will be fully customizable and wireless. So after seeing that Hack Club Fabricate can help fund projects, I immediately started on it. I used EasyEDA Pro for the PCB design and schematics and I used Fusion 360 to design the CAD for the controller cases. 
+
+  I do not have any code ready for it however I do know it should be able to work. If I can get it funded by Fabricate, then I would spend more time on it once I have everything to code and do the finishing touches and fixing different errors in the CAD design.
