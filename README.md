@@ -24,6 +24,11 @@ V1.5 Smaller and more compact. Instead of vibrating, it is just a small buzzer t
 <img height="428" alt="Screenshot 2026-10-31 at 7 02 07 PM" src="https://github.com/user-attachments/assets/8fa64ce2-1424-4429-852e-a02517fe0b4d" />
 <img height="428" alt="Screenshot 2026-10-31 at 2 19 21 PM" src="https://github.com/user-attachments/assets/23876aa4-ed12-4056-a85e-a850c0de1fdf" />
 
+# BUZZIN Buzzer controller V1.5 Final design concept
+<img width="741" height="418" alt="Screenshot 2026-10-31 at 3 45 37 PM" src="https://github.com/user-attachments/assets/f1877c9a-6d0f-4755-85c4-dfac90ee61d5" />
+<img width="212" height="427" alt="Screenshot 2026-10-31 at 5 06 17 PM" src="https://github.com/user-attachments/assets/fecc5f65-356a-49bb-b2b9-5df89e9676d3" />
+
+
 
 
 
