@@ -11,10 +11,7 @@
 
 > # Schematic and PCB V1
 > V1. Incorporates a led and vibration motor for feedback you can feel. [Old version]
-> <img height="428" alt="3" src="https://github.com/user-attachments/assets/679a8c8b-6777-4ef7-bd75-52f758a8fd5a" />
->  <img height="428" alt="4" src="https://github.com/user-attachments/assets/b4009225-2fb7-4c6a-a412-1efab0a25d2e" />
->  <img height="428" alt="5" src="https://github.com/user-attachments/assets/de629f28-2326-41ba-aa5f-2bd70c85b978" />
-> <img height="250" alt="2" src="https://github.com/user-attachments/assets/45da131b-922f-4a72-9127-7a3fc9a0df43" />
+> <img height="428" alt="3" src="https://github.com/user-attachments/assets/679a8c8b-6777-4ef7-bd75-52f758a8fd5a" /><img height="428" alt="4" src="https://github.com/user-attachments/assets/b4009225-2fb7-4c6a-a412-1efab0a25d2e" /><img height="428" alt="5" src="https://github.com/user-attachments/assets/de629f28-2326-41ba-aa5f-2bd70c85b978" /> <img height="250" alt="2" src="https://github.com/user-attachments/assets/45da131b-922f-4a72-9127-7a3fc9a0df43" />
 
 
 
