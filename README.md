@@ -22,6 +22,12 @@
 
 
 
+# Schematic and PCB V1.5
+<img width="196" height="428" alt="Screenshot 2026-10-31 at 6 18 48 PM" src="https://github.com/user-attachments/assets/ba210c77-9848-44fc-b648-83786e7e01a8" />
+
+
+
+
 
 
 
