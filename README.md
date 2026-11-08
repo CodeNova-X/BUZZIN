@@ -1,3 +1,5 @@
+
+
 <img width="1500" height="500" alt="BUZZIN Banner" src="https://github.com/user-attachments/assets/f6545d9f-6f22-46fc-81bb-5ba67f7f5581" />
 
 
@@ -31,4 +33,9 @@ V1.5 Smaller and more compact. Instead of vibrating, it is just a small buzzer t
 <img width="741" height="418" alt="Screenshot 2026-10-31 at 3 45 37 PM" src="https://github.com/user-attachments/assets/f1877c9a-6d0f-4755-85c4-dfac90ee61d5" />
 <img width="212" height="427" alt="Screenshot 2026-10-31 at 5 06 17 PM" src="https://github.com/user-attachments/assets/fecc5f65-356a-49bb-b2b9-5df89e9676d3" />
 
+
+# BUZZIN HUB 
+
+
+https://github.com/user-attachments/assets/d7611ec3-7f72-404c-8847-28c70f6caadd
 
