@@ -1,4 +1,7 @@
-<img width="2752" height="1536" alt="Recreate_banner_with_new_logo_64f638e6_2K" src="https://github.com/user-attachments/assets/046e7147-91f6-48a2-b68c-fbe7eb6379ba" />
+<img width="1500" height="500" alt="BUZZIN Banner" src="https://github.com/user-attachments/assets/f6545d9f-6f22-46fc-81bb-5ba67f7f5581" />
+
+
+
 
 # BUZZIN
 #### A Wireless Game Buzzer
