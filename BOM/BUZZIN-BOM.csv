@@ -1,4 +1,4 @@
-Sheet 1: BOM for BUZZIN- 4 controllers and 1 hub
+-BOM for BUZZIN 4 controllers and 1 hub-
 Component,Part / Model,Qty. Needed,Price per Part,Total Price,Status,Supplier Link,Notes
 Microcontroller,Seeed XIAO ESP32-C5,5,$6.99,$34.95,Purchase,Seeed,
 Buzzer,Huaneng MLT-8530 (C94599),5,$0.2038,$1.02,Owned,LCSC,
@@ -8,7 +8,7 @@ External pushbutton,Gebildet B0CJHXJWN3,5,$1.398*,$6.99,Purchase,Amazon,
 LiPo battery,"YDL 102050, 3.7V 1000mAh",5,$2.10,$10.50,Purchase,YDL Battery,"When discounted for buying 10 or more, I am buying 5 for the project and the other 5 for me and my other projects. Only the price for the 5 is included in the BOM"
 Custom PCB,PCBWay,5,$0.42,$2.10,Purchase,JLCPCB,Price discount the JLCONE app
 
-"Sheet 1: Shipping, taxes, and fees"
+-Shipping and taxes and fees-
 Shipping / Fee,Cost,Details
 XIAO shipping + sales tax,$16.97,Actual checkout amount
 Battery shipping,$7.85,Full shipping for 10 batteries
@@ -18,7 +18,7 @@ LCSC shipping for owned parts,Unknown ,Exact amount is unknown however I already
 Amazon button shipping,$0.00,Free shipping with Prime
 Amazon button tax,$4.00,Rough tax estimate on button
 
-Sheet 1: Final Pricing
+-Final Pricing-
 Category,Cost ( for each category),Final Total price 
 New components and PCB quote,$54.54,$96.48
 Known shipping and sales tax,$31.94,
