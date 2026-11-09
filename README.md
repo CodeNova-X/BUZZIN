@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/d7611ec3-7f72-404c-8847-28c70f6caadd
 | Category | Cost (for each category) | Details |
 | :--- | :--- | :--- |
 | New components and PCB quote | $54.54 | |
-| Shipping | $31.94 | Also includes Fees |
+| Shipping | $31.94 | Also includes taxes |
 | Estimated PCB import / processing fee | $10.00 | |
 | Total | **$96.48** |
 
