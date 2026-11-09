@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/d7611ec3-7f72-404c-8847-28c70f6caadd
 ### BOM for BUZZIN (4 Controllers & 1 Hub)
 
 
-| Component | Part / Model | Qty. Needed | Price per Part | Total | Status | Supplier Link | Notes |
+| Component | Part / Model | Qty. Needed | Price per Part | Total Price | Status | Supplier Link | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Microcontroller | Seeed XIAO ESP32-C5 | 5 | $6.99 | $34.95 | Purchase | [Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C5-p-6609.html) | |
 | Buzzer | Huaneng MLT-8530 (C94599) | 5 | $0.2038 | $1.02 | Owned | [LCSC](https://www.lcsc.com/product-detail/C94599.html?globalKeyword=C94599&s_z=n_q_C94599) | |
@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/d7611ec3-7f72-404c-8847-28c70f6caadd
 
 ### Final Pricing
 
-| Category | Cost (for each category) | Final Total Price |
+| Category | Cost (for each category) | Total |
 | :--- | :--- | :--- |
 | New components and PCB quote | $54.54 | $96.48 |
 | Known shipping and sales tax | $31.94 | |
