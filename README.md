@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/d7611ec3-7f72-404c-8847-28c70f6caadd
 ## BOM
 ### BOM for BUZZIN (4 Controllers & 1 Hub)
 
-| Component | Part / Model | Qty. Needed | Price per Part | Total Price | Status | Supplier Link | Notes |
+| Component | Part / Model | Qty. Needed | Price per Part | Total | Status | Supplier Link | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Microcontroller | Seeed XIAO ESP32-C5 | 5 | $6.99 | $34.95 | Purchase | Seeed | |
 | Buzzer | Huaneng MLT-8530 (C94599) | 5 | $0.2038 | $1.02 | Owned | LCSC | |
