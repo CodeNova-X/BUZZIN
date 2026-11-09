@@ -2,11 +2,11 @@
 
 | Component | Part / Model | Qty. Needed | Price per Part | Total Price | Status | Supplier Link | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Microcontroller | Seeed XIAO ESP32-C5 | 5 | $6.99 | $34.95 | Purchase | Seeed | |
-| Buzzer | Huaneng MLT-8530 (C94599) | 5 | $0.2038 | $1.02 | Owned | LCSC | |
-| RGB LED | WS2812B-MINI-V6 (C52941386) | 5 | $0.1079 | $0.54 | Owned | LCSC | |
-| Battery PCB connector | Molex 53261-0271 (C177225) | 5 | $0.1433 | $0.72 | Owned | LCSC | |
-| External pushbutton | Gebildet B0CJHXJWN3 | 5 | $1.398* | $6.99 | Purchase | Amazon | |
+| Microcontroller | Seeed XIAO ESP32-C5 | 5 | $6.99 | $34.95 | Purchase | Seeed |
+| Buzzer | Huaneng MLT-8530 (C94599) | 5 | $0.2038 | $1.02 | Owned | LCSC |
+| RGB LED | WS2812B-MINI-V6 (C52941386) | 5 | $0.1079 | $0.54 | Owned | LCSC |
+| Battery PCB connector | Molex 53261-0271 (C177225) | 5 | $0.1433 | $0.72 | Owned | LCSC |
+| External pushbutton | Gebildet B0CJHXJWN3 | 5 | $1.398* | $6.99 | Purchase | Amazon |
 | LiPo battery | YDL 102050, 3.7V 1000mAh | 5 | $2.10 | $10.50 | Purchase | YDL Battery | Price discounted for buying 10+ (5 for project, 5 for personal use) |
 | Custom PCB | PCBWay | 5 | $0.42 | $2.10 | Purchase | JLCPCB | Price discount via JLCONE app |
 
