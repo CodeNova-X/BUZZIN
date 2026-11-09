@@ -58,8 +58,7 @@ https://github.com/user-attachments/assets/d7611ec3-7f72-404c-8847-28c70f6caadd
 | External pushbutton | Gebildet B0CJHXJWN3 | 5 | $1.398* | $6.99 | Purchase | [Amazon](https://www.amazon.com/dp/B0CJHXJWN3?th=1) | |
 | LiPo battery | YDL 102050, 3.7V 1000mAh | 5 | $2.10 | $10.50 | Purchase | [YDL Battery](https://ydlbattery.com/products/3-7v-1000mah-102050-lithium-polymer-ion-battery?variant=42093651787929) | Make sure to choose the Molex 1.25 connector and the price is discounted for buying 10+ (I am getting 5 for project, 5 for personal use) |
 | Custom PCB | PCBWay | 5 | $0.42 | $2.10 | Purchase | [JLCPCB](https://jlcpcb.com) | Price discount via JLCONE app |
-|Shipping|0 | 0| 0| 0| 0|0| LOOK DOWN |
-|Total| $56.82 ||||| LOOK DOWN- Sorry I am trying to get Fabricate to let be submit my project |
+
 
 ### Shipping, Taxes, and Fees
 
