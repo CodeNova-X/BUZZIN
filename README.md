@@ -46,3 +46,36 @@
 
 https://github.com/user-attachments/assets/d7611ec3-7f72-404c-8847-28c70f6caadd
 
+## BOM
+### BOM for BUZZIN (4 Controllers & 1 Hub)
+
+| Component | Part / Model | Qty. Needed | Price per Part | Total Price | Status | Supplier Link | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Microcontroller | Seeed XIAO ESP32-C5 | 5 | $6.99 | $34.95 | Purchase | Seeed | |
+| Buzzer | Huaneng MLT-8530 (C94599) | 5 | $0.2038 | $1.02 | Owned | LCSC | |
+| RGB LED | WS2812B-MINI-V6 (C52941386) | 5 | $0.1079 | $0.54 | Owned | LCSC | |
+| Battery PCB connector | Molex 53261-0271 (C177225) | 5 | $0.1433 | $0.72 | Owned | LCSC | |
+| External pushbutton | Gebildet B0CJHXJWN3 | 5 | $1.398* | $6.99 | Purchase | Amazon | |
+| LiPo battery | YDL 102050, 3.7V 1000mAh | 5 | $2.10 | $10.50 | Purchase | YDL Battery | Price discounted for buying 10+ (5 for project, 5 for personal use) |
+| Custom PCB | PCBWay | 5 | $0.42 | $2.10 | Purchase | JLCPCB | Price discount via JLCONE app |
+
+### Shipping, Taxes, and Fees
+
+| Shipping / Fee | Cost | Details |
+| :--- | :--- | :--- |
+| XIAO shipping + sales tax | $16.97 | Actual checkout amount |
+| Battery shipping | $7.85 | Full shipping for 10 batteries |
+| PCB shipping | $3.12 | Already included in $5.22 PCB quote |
+| Estimated PCB import / processing fee | $10.00 | Provisional estimate, not confirmed |
+| LCSC shipping for owned parts | Unknown | Exact amount unknown; parts already on hand |
+| Amazon button shipping | $0.00 | Free shipping with Prime |
+| Amazon button tax | $4.00 | Rough tax estimate on button |
+
+### Final Pricing
+
+| Category | Cost (for each category) | Final Total Price |
+| :--- | :--- | :--- |
+| New components and PCB quote | $54.54 | $96.48 |
+| Known shipping and sales tax | $31.94 | |
+| Estimated PCB import / processing fee | $10.00 | |
+
