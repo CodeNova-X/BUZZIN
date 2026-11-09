@@ -49,15 +49,16 @@ https://github.com/user-attachments/assets/d7611ec3-7f72-404c-8847-28c70f6caadd
 ## BOM
 ### BOM for BUZZIN (4 Controllers & 1 Hub)
 
+
 | Component | Part / Model | Qty. Needed | Price per Part | Total | Status | Supplier Link | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Microcontroller | Seeed XIAO ESP32-C5 | 5 | $6.99 | $34.95 | Purchase | Seeed | |
-| Buzzer | Huaneng MLT-8530 (C94599) | 5 | $0.2038 | $1.02 | Owned | LCSC | |
-| RGB LED | WS2812B-MINI-V6 (C52941386) | 5 | $0.1079 | $0.54 | Owned | LCSC | |
-| Battery PCB connector | Molex 53261-0271 (C177225) | 5 | $0.1433 | $0.72 | Owned | LCSC | |
-| External pushbutton | Gebildet B0CJHXJWN3 | 5 | $1.398* | $6.99 | Purchase | Amazon | |
-| LiPo battery | YDL 102050, 3.7V 1000mAh | 5 | $2.10 | $10.50 | Purchase | YDL Battery | Price discounted for buying 10+ (5 for project, 5 for personal use) |
-| Custom PCB | PCBWay | 5 | $0.42 | $2.10 | Purchase | JLCPCB | Price discount via JLCONE app |
+| Microcontroller | Seeed XIAO ESP32-C5 | 5 | $6.99 | $34.95 | Purchase | [Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C5-p-6609.html) | |
+| Buzzer | Huaneng MLT-8530 (C94599) | 5 | $0.2038 | $1.02 | Owned | [LCSC](https://www.lcsc.com/product-detail/C94599.html?globalKeyword=C94599&s_z=n_q_C94599) | |
+| RGB LED | WS2812B-MINI-V6 (C52941386) | 5 | $0.1079 | $0.54 | Owned | [LCSC](https://www.lcsc.com/product-detail/C52941386.html?globalKeyword=C52941386&s_z=n_q_C52941386) | |
+| Battery PCB connector | Molex 53261-0271 (C177225) | 5 | $0.1433 | $0.72 | Owned | [LCSC](https://www.lcsc.com/product-detail/C177225.html?globalKeyword=C177225&s_z=n_q_C177225) | |
+| External pushbutton | Gebildet B0CJHXJWN3 | 5 | $1.398* | $6.99 | Purchase | [Amazon](https://www.amazon.com/dp/B0CJHXJWN3?th=1) | |
+| LiPo battery | YDL 102050, 3.7V 1000mAh | 5 | $2.10 | $10.50 | Purchase | [YDL Battery](https://ydlbattery.com/products/3-7v-1000mah-102050-lithium-polymer-ion-battery?variant=42093651787929) | Make sure to choose the Molex 1.25 connector and the price is discounted for buying 10+ (I am getting 5 for project, 5 for personal use) |
+| Custom PCB | PCBWay | 5 | $0.42 | $2.10 | Purchase | [JLCPCB](https://jlcpcb.com) | Price discount via JLCONE app |
 
 ### Shipping, Taxes, and Fees
 
