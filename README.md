@@ -50,9 +50,10 @@ https://github.com/user-attachments/assets/d7611ec3-7f72-404c-8847-28c70f6caadd
 ## Ai disclosure
 I used ai to make a quick test code so that I could see if the pcbs work when I have them made.
 
-## BOM
-### BOM for BUZZIN (4 Controllers & 1 Hub)
-### BUZZIN Project Costs (4 Controllers & 1 Hub)
+
+
+## BOM (for 4 Controllers & 1 Hub)
+
 
 | Category | Item / Component | Part / Model | Qty. | Unit Price | Total | Status | Supplier Link | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
